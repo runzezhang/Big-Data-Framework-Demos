@@ -33,13 +33,10 @@ class TweeterStreamListener(tweepy.StreamListener):
         return True
 
 if __name__ == '__main__':
-    #https://apps.twitter.com/app/14544294/keys
+
     # twitter name runzezhang
     # tweet connections
-    access_token = "714107015358849026-Uz5K8rxCd9UrtAZQHsT80DfyxDK1ytx"
-    access_token_secret = "HPbE2f1Hdv6dbccCQSh9qcDAkEL008mYLLv7l1x922iit"
-    consumer_key = "VsXKiECNEKmR2nltWoMrigsFN"
-    consumer_secret = "tG4HpTDNxKjwh3KkLVMlwNhbc6gDXecDOf3QHmkxFcTrsB6koU"
+
 
     # Create Auth object
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
