@@ -1,7 +1,6 @@
 Spark and Spark SQL
 
 Runze Zhang
-rxz160630@utdallas.edu
 
 Test Environment: Ubuntu 16.04 LTS
                   MacBook Pro (13-inch, 2017, Four Thunderbolt 3 Ports)
